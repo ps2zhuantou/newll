@@ -24,7 +24,7 @@ on:
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
-  CONFIG_FILE: r619ac-128m.config
+  CONFIG_FILE: lr619ac-128m.config
   DIY_SH: diy1.sh
   SSH_ACTIONS: false
   UPLOAD_BIN_DIR: false
