@@ -14,5 +14,8 @@ git clone https://github.com/ujincn/luci-app-smartdns-compat.git package/luci-ap
 git clone https://github.com/pymumu/smartdns.git package/smartdns
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
+git clone https://github.com/solidus1983/luci-theme-opentomato.git package/luci-theme-opentomato
+git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
+git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly-dark.git package/luci-theme-Butterfly-dark
 ./scripts/feeds update -a
 ./scripts/feeds install -a
