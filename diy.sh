@@ -12,5 +12,6 @@
 git clone https://github.com/ujincn/luci-app-smartdns-compat.git package/luci-app-smartdns-compat
 git clone https://github.com/pymumu/smartdns.git package/smartdns
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
 ./scripts/feeds update -a
 ./scripts/feeds install -a
