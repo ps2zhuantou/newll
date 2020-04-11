@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt_R619AC
+name: Build OpenWrt_R619AC_128M
 
 on:
   repository_dispatch:
@@ -25,7 +25,7 @@ on:
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
-  CONFIG_FILE: lr619ac_128m.config
+  CONFIG_FILE: lr619ac-128m.config
   DIY_SH: diy1.sh
   SSH_ACTIONS: false
   UPLOAD_BIN_DIR: false
