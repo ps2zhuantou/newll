@@ -11,6 +11,7 @@
 # git clone https://github.com/jerrykuku/luci-app-vssr.git  package/luci-app-vssr
 git clone https://github.com/Lienol/openwrt-package.git package/openwrt-package
 git clone https://github.com/fw876/helloworld.git package/helloworld
+git clone https://github.com/pirately/passwall.git package/passwall
 git clone https://github.com/ujincn/luci-app-smartdns-compat.git package/luci-app-smartdns-compat
 git clone https://github.com/pymumu/smartdns.git package/smartdns
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
