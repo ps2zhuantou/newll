@@ -21,5 +21,6 @@
 # git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly-dark.git package/luci-theme-Butterfly-dark
 # git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly.git package/luci-theme-Butterfly
 git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
+git clone https://github.com/kenzok8/small.git package/small
 ./scripts/feeds update -a
 ./scripts/feeds install -a
