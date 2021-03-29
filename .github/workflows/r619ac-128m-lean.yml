@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt-New
+name: Build R619ac-128m
 
 on:
   repository_dispatch:
