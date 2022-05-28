@@ -21,6 +21,6 @@
 # git clone https://github.com/kenzok8/litte.git package/litte
 rm -rf ./target/linux/ramips
 svn co https://github.com/padavanonly/immortalwrt/trunk/target/linux/ramips target/linux/ramips
-sed -i 's/PATCHVER:=5.4/PATCHVER:=5.10/g' target/linux//ramips/Makefile
+sed -i 's/PATCHVER:=5.4/PATCHVER:=5.10/g' target/linux/ramips/Makefile
 ./scripts/feeds update -a
 ./scripts/feeds install -a
