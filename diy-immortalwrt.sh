@@ -21,3 +21,4 @@
 # git clone https://github.com/kenzok8/litte.git package/litte
 # ./scripts/feeds update -a
 # ./scripts/feeds install -a
+# sed -i 's/KERNEL_PATCHVER:=5.4/KERNEL_PATCHVER:=5.10/g' ./target/linux/x86/Makefile
